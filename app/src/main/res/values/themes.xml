@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WebAPP" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        android:uiMode="normal|nightNo"
+    </style>
+
+    <style name="Light.WebAPP" parent="Base.Theme.WebAPP" />
+</resources>

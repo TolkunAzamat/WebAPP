@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Изображение при нажатии -->
+    <item android:state_pressed="true"
+          android:drawable="@drawable/ref_new2" />
+    <!-- Изображение в обычном состоянии -->
+    <item android:drawable="@drawable/ref_new" />
+</selector>
